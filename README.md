@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kf6c
 - 👀 I’m interested in Sofrware defined Radios
-- 🌱 I’m currently learning Assembly for arm on raspberry pi
+- 🌱 I’m currently learning Assembly for arm on raspberry pi and GNU Radio.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
